@@ -27,7 +27,3 @@ Understanding and predicting bank churn is crucial for financial institutions to
 - Enhance overall business profitability
 
 By leveraging data-driven approaches, we aim to empower banks with tools to proactively address customer churn and improve overall customer retention strategies.
-
-## Table of Contents
-(Include the rest of the sections as per the template provided earlier)
-...
