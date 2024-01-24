@@ -1,5 +1,5 @@
 ## DSBDA_Mini_Project
-# Bank Churn Prediction Mini Project
+## Bank Churn Prediction
 
 ## Overview
 
